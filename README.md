@@ -3,6 +3,8 @@
 
 Página de checkout de viagem, desenvolvida para um cliente de turismo.
 
+### Link
+- Solução: [Ir para solução](https://carlosalischutz.github.io/Wizzi/)
 
 ## Instalação 
 Para instalar dependências: `npm start` ou `yarn start`
@@ -18,6 +20,10 @@ Para instalar dependências: `npm start` ou `yarn start`
 ## Execução do Projeto
 
 Para iniciar o projeto, execute o seguinte comando: `npm start` ou `yarn start`
+
+### Tecnologias usadas
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js&perline=4)](https://skillicons.dev)
 
 
 ## Screenshot Projeto
