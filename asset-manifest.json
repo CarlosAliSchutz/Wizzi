@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Wizzi/static/css/main.6e6e8594.css",
+    "main.js": "/Wizzi/static/js/main.23dab9da.js",
+    "static/js/787.9d963bb7.chunk.js": "/Wizzi/static/js/787.9d963bb7.chunk.js",
+    "static/media/rio_de_janeiro.jpg": "/Wizzi/static/media/rio_de_janeiro.c3dabdedba1e4116d240.jpg",
+    "static/media/bolzano.jpg": "/Wizzi/static/media/bolzano.57915d8885612b8976f1.jpg",
+    "static/media/alasca.jpg": "/Wizzi/static/media/alasca.fe164ec88cf59baa480f.jpg",
+    "static/media/Logo.png": "/Wizzi/static/media/Logo.58842efcd1c402f36a42.png",
+    "static/media/perfil.png": "/Wizzi/static/media/perfil.934339d98b117001e1d3.png",
+    "static/media/chat-hover.svg": "/Wizzi/static/media/chat-hover.90b21092458986a8bd3e.svg",
+    "static/media/chat.svg": "/Wizzi/static/media/chat.8e3d5fbd521f48985afa.svg",
+    "static/media/home-hover.svg": "/Wizzi/static/media/home-hover.62ce989d6231d2a141a7.svg",
+    "static/media/home.svg": "/Wizzi/static/media/home.8bf139e0c64d935c7439.svg",
+    "static/media/user-hover.svg": "/Wizzi/static/media/user-hover.7c9b29a0c1c51f891919.svg",
+    "static/media/user.svg": "/Wizzi/static/media/user.398277101059ae370033.svg",
+    "index.html": "/Wizzi/index.html",
+    "static/media/like-hover.svg": "/Wizzi/static/media/like-hover.10ff31e271c64ffc1e51.svg",
+    "static/media/like.svg": "/Wizzi/static/media/like.ad6ce3435561fe9624f7.svg",
+    "main.6e6e8594.css.map": "/Wizzi/static/css/main.6e6e8594.css.map",
+    "main.23dab9da.js.map": "/Wizzi/static/js/main.23dab9da.js.map",
+    "787.9d963bb7.chunk.js.map": "/Wizzi/static/js/787.9d963bb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e6e8594.css",
+    "static/js/main.23dab9da.js"
+  ]
+}
