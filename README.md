@@ -17,7 +17,7 @@ Para instalar dependências: `npm start` ou `yarn start`
   yarn install
 ```
     
-## Execução do Projeto
+### Execução do Projeto
 
 Para iniciar o projeto, execute o seguinte comando: `npm start` ou `yarn start`
 
