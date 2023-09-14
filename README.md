@@ -7,7 +7,7 @@ Página de checkout de viagem, desenvolvida para um cliente de turismo.
 - Solução: [Ir para solução](https://carlosalischutz.github.io/Wizzi/)
 
 ## Instalação 
-Para instalar dependências: `npm start` ou `yarn start`
+Para instalar dependências:
 
 ```bash
   git clone https://github.com/CarlosAliSchutz/Wizzi.git
